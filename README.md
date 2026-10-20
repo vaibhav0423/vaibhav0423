@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhav0423
+- 👋 Hi, I’m Vaibhav
 - 👀 Building MrDriver
 - 📫 How to reach me via email: a.vaibhav@mrdriver.ca
 
